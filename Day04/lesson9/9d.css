@@ -1,0 +1,15 @@
+.text{
+    background-color: black;
+    color: white;
+    width: 300px;
+    padding: 1px 12px;
+}
+.text1{
+    line-height: 0px;
+    font-size: 27px;
+}
+.text2{
+    font-size: 12px;
+    color: gray;
+    font-weight: bold;
+}
